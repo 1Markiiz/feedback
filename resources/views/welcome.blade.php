@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="/form" method="get">
+    <form action="/form-recieve" method="get">
         <div>
             <label for="name">Name:</label>
             <input type="text" name="name" id="name">
